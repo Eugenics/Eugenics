@@ -2,9 +2,6 @@
 - 👋 Hi, I’m @Eugenics
 - 👀 I’m interested in Java, Kotlin, Android, IoT
 - 🌱 I’m currently learning Android development
-<!---
-- 💞️ I’m looking to collaborate on ...
---->
 - 📫 How to reach me p.eugenics@gmail.com
 <br/>
 
