@@ -44,6 +44,13 @@
 <a href="#!"><img alt="Retrofit" src="https://img.shields.io/badge/-Retrofit-115bc8"></a>
 <a href="#!"><img alt="Moxy" src="https://img.shields.io/badge/-Moxy-eb7891"></a>
 </p>
+<br/>
+  
+<p>
+<a href="#"><img alt="GitHub Views" src="https://komarev.com/ghpvc/?username=Eugenics&color=green"/></a>
+<a href="#"><img alt="GitHub Followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Eugenics?color=blueviolet&logo=github&label=Followers"/></a>
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Eugenics/Eugenics?label=last%20update">
+</p>
 
 <!---
 Eugenics/Eugenics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
