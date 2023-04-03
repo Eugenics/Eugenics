@@ -29,9 +29,9 @@
 </p>
 <p>
 <a href="#!"><img alt="ViewModel" src="https://img.shields.io/badge/-ViewModel-eb7891">
-<a href="#!"><img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack Compose-3747a6"></a>
-<a href="#!"><img alt="Kotlin Coroutines" src="https://img.shields.io/badge/-Kotlin Coroutines-5955ec"></a>
-<a href="#!"><img alt="Kotlin Flow" src="https://img.shields.io/badge/-Kotlin Flow-5955ec"></a>
+<a href="#!"><img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack Compose-4285F4.svg?logo=jetpackcompose&logoColor=white"></a>
+<a href="#!"><img alt="Kotlin Coroutines" src="https://img.shields.io/badge/-Kotlin Coroutines-7F52FF.svg?logo=kotlin&logoColor=white"></a>
+<a href="#!"><img alt="Kotlin Flow" src="https://img.shields.io/badge/-Kotlin Flow-7F52FF.svg?logo=kotlin&logoColor=white"></a>
 <a href="#!"><img alt="LiveData" src="https://img.shields.io/badge/-LiveData-9d56f7"></a>
 <a href="#!"><img alt="Dagger 2" src="https://img.shields.io/badge/-Dagger 2-d157d6"></a>
 <a href="#!"><img alt="Hilt" src="https://img.shields.io/badge/-Hilt-d157d6"></a>
