@@ -10,8 +10,8 @@
 
 ### 💻 Programming languages
 <p>
-<a href="https://github.com/search?q=user%3AEugenics+is%3Arepo+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AEugenics+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-e76e12.svg?logo=java&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AEugenics+is%3Arepo+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white&style=for-the-badge"></a>
+<a href="https://github.com/search?q=user%3AEugenics+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-e76e12.svg?logo=java&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ### 🛠️ Tools
