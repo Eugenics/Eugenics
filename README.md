@@ -44,6 +44,14 @@
 <a href="#!"><img alt="Retrofit" src="https://img.shields.io/badge/-Retrofit-115bc8"></a>
 <a href="#!"><img alt="Moxy" src="https://img.shields.io/badge/-Moxy-eb7891"></a>
 </p>
+  
+### 🗄️ Databases
+<p>
+<a href="#!"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+<a href="#!"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+<a href="#!"><img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927.svg?logo=microsoftsqlserver&logoColor=white"></a>
+<a href="#!"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000.svg?logo=oracle&logoColor=white"></a>
+</p>
 
 <!---
 Eugenics/Eugenics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
