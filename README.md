@@ -8,6 +8,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugenics&theme=gruvbox&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
+### 💻 Programming languages
+<p>
+<a href="https://github.com/search?q=user%3AEugenics+is%3Arepo+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AEugenics+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-e76e12.svg?logo=java&logoColor=white"></a>
+</p>
+
 ### 🛠️ Tools
 <p>
 <a href="#!"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
